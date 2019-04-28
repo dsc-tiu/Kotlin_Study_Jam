@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90eb209d-f73f-4579-8163-2732434b4db9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Function/infix_function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/basic_function.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Function/infix_function.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/function/infix_function.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/function/basic_function.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -73,6 +82,8 @@
         <option value="$PROJECT_DIR$/src/Basics/helloworld.kt" />
         <option value="$PROJECT_DIR$/src/conditionals/if-else.kt" />
         <option value="$PROJECT_DIR$/src/Function/infix_function.kt" />
+        <option value="$PROJECT_DIR$/src/function/infix_function.kt" />
+        <option value="$PROJECT_DIR$/src/function/basic_function.kt" />
       </list>
     </option>
   </component>
@@ -104,7 +115,7 @@
               <item name="Kotlin_Study_Jam" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kotlin_Study_Jam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Function" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.function.Infix_functionKt">
+  <component name="RunManager" selected="Kotlin.function.Basic_functionKt">
     <configuration name="Basics.HelloworldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinConf" />
       <option name="VM_PARAMETERS" />
@@ -170,6 +181,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="function.Basic_functionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinConf" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="function.Basic_functionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="function.Infix_functionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinConf" />
       <option name="VM_PARAMETERS" />
@@ -185,6 +209,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.function.Basic_functionKt" />
         <item itemvalue="Kotlin.function.Infix_functionKt" />
         <item itemvalue="Kotlin.conditionals.If_elseKt" />
         <item itemvalue="Kotlin.Basics.HelloworldKt" />
@@ -272,10 +297,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Function/infix_function.kt">
+    <entry file="file://$PROJECT_DIR$/src/function/infix_function.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/function/basic_function.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
