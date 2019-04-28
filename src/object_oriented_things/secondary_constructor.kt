@@ -1,10 +1,10 @@
 package object_oriented_things
 
 fun main(){
-    var student = Student("Abc",2)
+    Student("Abc",2)
 }
 
-class Student(private var name : String ){
+class Student(name : String ){
 
     var id:Int=1
 
