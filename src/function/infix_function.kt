@@ -8,9 +8,8 @@ fun main(){
     println(greaterValue)
 }
 
-infix fun Int.greaterValue(other:Int): Int {
-    return if(this>other)
-        this
-    else
-        other
-}
+infix fun Int.greaterValue(other:Int): Int = if(this>other) this else other
+//    return if(this>other)
+//        this
+//    else
+//        other
