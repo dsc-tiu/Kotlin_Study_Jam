@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90eb209d-f73f-4579-8163-2732434b4db9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/koltin_collection/array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/koltin_collection/list.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/koltin_collection/map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/koltin_collection/set.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinConf/META-INF/KotlinConf.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinConf/META-INF/KotlinConf.kotlin_module" afterDir="false" />
     </list>
@@ -64,11 +64,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/koltin_collection/list.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/koltin_collection/map.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/koltin_collection/set.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -111,6 +129,8 @@
         <option value="$PROJECT_DIR$/src/null_safety/lazy_keyword.kt" />
         <option value="$PROJECT_DIR$/src/koltin_collection/array.kt" />
         <option value="$PROJECT_DIR$/src/koltin_collection/list.kt" />
+        <option value="$PROJECT_DIR$/src/koltin_collection/map.kt" />
+        <option value="$PROJECT_DIR$/src/koltin_collection/set.kt" />
       </list>
     </option>
   </component>
@@ -175,20 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.koltin_collection.ListKt">
-    <configuration name="function.LamdaFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinConf" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="function.LamdaFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.koltin_collection.SetKt">
     <configuration name="koltin_collection.ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinConf" />
       <option name="VM_PARAMETERS" />
@@ -215,14 +222,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="null_safety.Lateinit_keywordKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="koltin_collection.MapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinConf" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="null_safety.Lateinit_keywordKt" />
+      <option name="MAIN_CLASS_NAME" value="koltin_collection.MapKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="koltin_collection.SetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinConf" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="koltin_collection.SetKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -243,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.koltin_collection.SetKt" />
+        <item itemvalue="Kotlin.koltin_collection.MapKt" />
         <item itemvalue="Kotlin.koltin_collection.ListKt" />
         <item itemvalue="Kotlin.koltin_collection.ArrayKt" />
         <item itemvalue="Kotlin.null_safety.Lazy_keywordKt" />
-        <item itemvalue="Kotlin.null_safety.Lateinit_keywordKt" />
-        <item itemvalue="Kotlin.function.LamdaFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +303,7 @@
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26139817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26139817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,7 +312,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,8 +469,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/koltin_collection/list.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/koltin_collection/map.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/koltin_collection/set.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
