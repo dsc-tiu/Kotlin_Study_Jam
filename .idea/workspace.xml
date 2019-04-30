@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90eb209d-f73f-4579-8163-2732434b4db9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/null_safety/lateinit_keyword.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/null_safety/lazy_keyword.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/null_safety/null_safe_operators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinConf/META-INF/KotlinConf.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinConf/META-INF/KotlinConf.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinConf/z_Coroutines/BasicKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/null_safety/lazy_keyword.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/null_safety/lazy_keyword.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/null_safety/lazy_keyword.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="210">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -251,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556435452139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="many things updated">
+      <created>1556603930216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556603930217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -288,7 +290,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit +2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit +2" />
+    <MESSAGE value="many things updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="many things updated" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/package-info.java" />
@@ -409,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/null_safety/lazy_keyword.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="210">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
