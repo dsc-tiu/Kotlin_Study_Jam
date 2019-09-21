@@ -1,11 +1,17 @@
-package koltin_collection
-
 fun main(){
 
-    val myArray = Array(5) {4}
+    val myArray = Array(3){2}
+    myArray[0] =12
+    myArray[1] =13
+    myArray[2] =11
+    myArray[3] =133
 
-    myArray[4] = 34
-    myArray[2] = 54
-
-    for(i in myArray) println(i)
+    for (elements in myArray){
+        println(elements)
+    }
 }
+
+
+
+
+
