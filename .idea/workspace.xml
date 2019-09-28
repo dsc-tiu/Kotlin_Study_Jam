@@ -69,12 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-87" />
-    <option name="y" value="50" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
-  </component>
+  <component name="ProjectId" id="1RS0mqABOF9yhkxOCf0OveyKZOU" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -89,6 +84,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -102,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.conditionals.If_elseKt">
+  <component name="RunManager" selected="Kotlin.Basics.HelloworldKt">
     <configuration name="Basics.HelloworldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinConf" />
       <option name="VM_PARAMETERS" />
@@ -144,8 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.conditionals.If_elseKt" />
         <item itemvalue="Kotlin.Basics.HelloworldKt" />
+        <item itemvalue="Kotlin.conditionals.If_elseKt" />
         <item itemvalue="Kotlin.LamdaFunctionKt" />
       </list>
     </recent_temporary>

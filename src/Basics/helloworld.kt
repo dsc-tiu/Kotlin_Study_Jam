@@ -1,5 +1,3 @@
 package Basics
 
-fun main(){
-    print("Hello World")
-}
+fun main() = println("Hello Kotlin Bootcamp4")
